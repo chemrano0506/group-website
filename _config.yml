@@ -1,32 +1,10 @@
+title: CompChemRano
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
 description: "This research project develops training materials for reseachers wanting to learn to build project
 websites in GitHub with GitHub Pages."
+
+name : Jerrano L. Bowleg 
 email: "jbowleg@rti.org"
 twitter: "https://twitter.com/thecarpentries"
-name : Jerrano L. Bowleg 
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+linkedin: "ttps://www.linkedin.com/in/jerranobowleg"
