@@ -1,9 +1,9 @@
              
- # Building Websites in GitHub
+ # Jerrano L. Bowleg Ph.D.
  
  ![](images/IMG-3633.JPG)
  
- # Description
+
  {{ site.description }}
       
 
