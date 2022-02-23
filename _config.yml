@@ -1,11 +1,17 @@
-title: CompChemRano
+# Site wide configuration
+
+titel: CompChemRano
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 description: "This research project develops training materials for reseachers wanting to learn to build project
 websites in GitHub with GitHub Pages."
 
-name : Jerrano L. Bowleg 
-email: "jbowleg@rti.org"
-linkedin: "ttps://www.linkedin.com/in/jerranobowleg"
-github: "https://github.com/chemrano0506"
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name : Jerrano L. Bowleg 
+  avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."  
+  email: "jbowleg@rti.org"
+  linkedin: "ttps://www.linkedin.com/in/jerranobowleg"
+  github: "https://github.com/chemrano0506"
 
