@@ -1,6 +1,6 @@
 # Site wide configuration
 
-titel: CompChemRano
+title: CompChemRano
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 description: "Hello, my name is Jerrano Bowleg and I am Posdoctoral Fellow at [Research Triangle Institute International](https://www.rti.org). My work and research is focused on compuational chemistry and drug discovery."
